@@ -7,7 +7,7 @@ Repositorio de prueba para comandos de git
 ## Contenido/Descripción
 
 | Email | | Autor |
-|-------| |-------|
+|--------|--------|
 |2000189@ucc.edu.ar|Agostina|
 
 :octocat:
